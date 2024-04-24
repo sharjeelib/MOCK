@@ -1,0 +1,24 @@
+
+
+Does AWS support Reverse NATing?
+Storage classes in S3 ?
+What is Delete marker? will it appear for every deletion?
+what can be scenarios if you are not able to SSH into your instance?
+difference between NAT Gateway and internet gateway?
+how to know the subnet is private or public?
+Tell me about the commands of S3
+What is access control list?
+What is VPC peering? how to do that?
+Different storage provided by AWS?
+what is load balancer and Practical example of ALB and NLP.
+What is AMI
+Policies in Auto Scaling.
+What is lifecycle of an object in S3?
+What is versioning?
+What is flow flogs?
+What is limit for number of VPCs, Subnets, buckets.
+Policies in Scaling?
+How scaling happens? tell with types.
+how can we replicate our bucket?
+Can we attach EFS to an instance. can you tell the process?
+What is EFS and which protocol does it uses?

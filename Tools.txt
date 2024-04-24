@@ -1,0 +1,74 @@
+AWS Cloud
+Linux
+shell
+ami & Snapshot
+ELB
+scaling
+vpc 
+EFS
+S3
+CLI
+IAM
+CloudFront, Cloudwatch,ClotTrail
+SNS
+R53
+RDB
+Lambda
+
+------------------------
+Devops
+------------------------
+Anisble
+Maven
+Docker
+Git
+Jenkins
+K8
+Terraform
+Prowler 
+Dockle
+
+Helm chart
+sonarqube
+trivy
+ArgoCD
+OWASP ZAP
+snyk
+
+--------------
+Progam
+--------------
+Python
+Bash
+Yaml
+Groovy
+
+-------------
+Monitoring 
+-------------
+Prometheus & Grafana
+
+JIRA
+
+--------------------------------------
+
+Introduce
+Roles & Responsibility
+Mock
+Resume
+Linkedin
+_____________________________
+Jobscan----ATS Resume
+
+
+_______________________________
+Common Questions ?
+
+
+
+
+
+
+
+
+

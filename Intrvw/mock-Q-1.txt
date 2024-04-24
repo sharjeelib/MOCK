@@ -1,0 +1,90 @@
+
+
+What is Hypervisor?
+Different types of virtualization?
+What is elastic transcoder?
+What is iterative model in SDLC?
+Consistency models for databases offered by AWS?
+
+
+EC2
+When Elastic IP will incur cost?
+If EIP is attached to EC2 which is stopped... Will it incur cost?
+What is connection draining?
+how to chose an availability zone? what parameters should we keep in mind?
+Difference between spot instance and on demand instance?
+I have DB server which I need to access frequently, which storage and its type I will use?
+what is Instance Store volume and EBS volume?
+what is use of lifecycle hooks in ASG?
+how to launch instance whos key you have lost?
+How to automate the ec2 backup?
+How to auto delete old snapshot?
+Is there Encryption in EBS?
+Can you change the private IP address of EC2 instance?
+I have 15 RDP servers. Which load balancer I should use?
+What are types of LB?
+What is hybrid AMI?
+which is costliest storage in AWS?
+How to automate EBS backups?
+
+VPC
+What will happen if I delete a Peering connection?
+How many instances you can use in VPC?
+What is stateful means exactly?
+How to block access for Russian traffic in your server? 
+If your russian colleague is not ablet to access now... what you'll do?
+How to connect VPC to on-prem network?
+192.168.2.0 is private or public ip address? what about 172.15.0.0 ?
+How to create a Peering Connection
+
+S3
+How 10GB file will be stored in EBS, EFS and S3 tell in detail. 
+How to upload file which is greater than 100MB? 
+redundancy in s3?
+what is faster s3 or ebs?
+Why S3 is cheaper?
+Which S3 storage class to select for storing logs that we want to access monthly?
+Difference between object storage and block storage?
+How you monitor S3? with its replication? to see it's consistency?
+storage classes in S3?
+
+EFS
+Why EFS is scalable for multiple EC2 instances? 
+
+CLOUDFRONT
+What is Min TTL max TTL value?
+How many requests per seconds CF can handle?
+how you clear the the CF cache?
+What is Geo Targetting in CF?
+What is CF?
+How to use browser cache? how to disable it for CF?
+
+SNS
+
+CLOUDWATCH
+what is cloudwatch?
+how to set a CW alarm to recover EC2 instance?
+Have you set any alarm in a CW? How you did it?
+
+CLOUDTRAIL
+What is CT? how it works?
+If one user did some distructive thing in my AWS... how can I track that?
+
+SHELL
+How to check for how long my Linux machine has been running?
+What is Run Level in linux and how to change it?
+Can you increase your partition in Linux without Rebooting it?
+How to restart a service in Linux?
+file created by the root... it should be opened by one other user and root only. how to do it?
+How to add user in Linux?
+su  - root command is failing what may be reason?
+System not booting after updating the kernel in the linux, What should be done?
+Write a code to Print the number of characters in a string?
+how to open read only file in VI Editor?
+How to see a file that has consumed the largest space in Linux?
+what is Swap Memory.
+metacharacters in shell
+how to schedule shell job on perticular time
+how to check disk usage
+My disk is overflowing how to troubleshoot it?
+I want to print all available IP addresses in a CIDR block 192.168.60.0/23. write a shell script for it.

@@ -1,0 +1,3 @@
+What issues did you faced in your daily routine and how you fixed those	
+
+git fetch and git pull difference	

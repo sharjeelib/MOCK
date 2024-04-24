@@ -1,0 +1,3 @@
+all kubectl commands 
+
+kubernetes.io/kubectl quick reference

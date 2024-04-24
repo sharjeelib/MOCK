@@ -1,0 +1,29 @@
+
+
+policies used in ASG
+What is target group
+what is launch configuration
+Command for adding user, how to give  him sudo permissions
+Command for changing file permissions 
+What is use of yum
+how to update perticular package
+how to see version of perticular package
+What is health checks
+what is listener
+snapshot vs ami
+what is incremental snapshot
+types of ec2 instances w.r.t cost and configuration
+What is sudoers file?
+Name scaling policies
+info of each scaling policy
+difference betweeen load balancer vs ASG
+horizontal vs verticle scaling
+Types of EBS, EC2.
+Meaning of incremental snapshot.
+difference between iops and throughput
+metrics in scaling
+elastic IP
+3 networking commands in Linux
+ssl certificate in ALB
+why we need autoscaling - to increase the availability
+how to see version of perticular application?
